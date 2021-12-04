@@ -1,0 +1,14 @@
+*{
+  margin:0;
+  padding: 0;
+}
+
+body{
+  width: 80%;
+  margin: 0 auto;
+  background-image: linear-gradient(to bottom, rgba(255,0,0,.5), rgba(255,0,0,.8))
+}
+
+p, h1{
+  text-align: center;
+}
